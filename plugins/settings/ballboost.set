@@ -1,0 +1,9 @@
+BallBoost plugin
+9|Adds boost every time you hit the ball
+9|Recommended to be played with the no boost mutator
+1|Enable plugin|ball_boost_enabled
+9|Amount of boost to add each hit 
+5|Amount|ball_boost_amount|0|100
+8|
+9|Plugin made for FrowzySquirrel youtube.com/c/FrowzySquirrel
+9|Plugin made by JerryTheBee#1117 - DM me on discord for custom plugin commissions!

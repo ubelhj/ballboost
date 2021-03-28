@@ -16,6 +16,9 @@ class BallBoost: public BakkesMod::Plugin::BakkesModPlugin/*, public BakkesMod::
 	virtual void onLoad();
 	virtual void onUnload();
 
+	void hookEvents();
+	void unhookEvents();
+
 	// Inherited via PluginWindow
 	/*
 
